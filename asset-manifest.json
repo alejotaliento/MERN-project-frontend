@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MERN-project-frontend/static/css/main.8c19e1cc.chunk.css",
+    "main.js": "/MERN-project-frontend/static/js/main.76157a26.chunk.js",
+    "main.js.map": "/MERN-project-frontend/static/js/main.76157a26.chunk.js.map",
+    "runtime-main.js": "/MERN-project-frontend/static/js/runtime-main.6738dcac.js",
+    "runtime-main.js.map": "/MERN-project-frontend/static/js/runtime-main.6738dcac.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/MERN-project-frontend/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.8b3a74df.chunk.js": "/MERN-project-frontend/static/js/2.8b3a74df.chunk.js",
+    "static/js/2.8b3a74df.chunk.js.map": "/MERN-project-frontend/static/js/2.8b3a74df.chunk.js.map",
+    "static/js/3.73de6012.chunk.js": "/MERN-project-frontend/static/js/3.73de6012.chunk.js",
+    "static/js/3.73de6012.chunk.js.map": "/MERN-project-frontend/static/js/3.73de6012.chunk.js.map",
+    "index.html": "/MERN-project-frontend/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/MERN-project-frontend/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.8c19e1cc.chunk.css.map": "/MERN-project-frontend/static/css/main.8c19e1cc.chunk.css.map",
+    "static/js/2.8b3a74df.chunk.js.LICENSE.txt": "/MERN-project-frontend/static/js/2.8b3a74df.chunk.js.LICENSE.txt",
+    "static/media/academy-logo.41594212.png": "/MERN-project-frontend/static/media/academy-logo.41594212.png",
+    "static/media/SignIn.scss": "/MERN-project-frontend/static/media/background-v1.cf7d7d05.jpg",
+    "static/media/css-grid.d6019588.jpg": "/MERN-project-frontend/static/media/css-grid.d6019588.jpg",
+    "static/media/facebook.c7041da6.svg": "/MERN-project-frontend/static/media/facebook.c7041da6.svg",
+    "static/media/MainBanner.scss": "/MERN-project-frontend/static/media/home-v1.81740f02.jpg",
+    "static/media/javascript-es6.4408daaa.jpg": "/MERN-project-frontend/static/media/javascript-es6.4408daaa.jpg",
+    "static/media/linkedin.85165d51.svg": "/MERN-project-frontend/static/media/linkedin.85165d51.svg",
+    "static/media/menu-top-logo.2afe8019.png": "/MERN-project-frontend/static/media/menu-top-logo.2afe8019.png",
+    "static/media/prestashop-1-7.3167b795.jpg": "/MERN-project-frontend/static/media/prestashop-1-7.3167b795.jpg",
+    "static/media/react-js-hooks.c1d6cbf2.jpg": "/MERN-project-frontend/static/media/react-js-hooks.c1d6cbf2.jpg",
+    "static/media/react-native.8c67f62f.jpg": "/MERN-project-frontend/static/media/react-native.8c67f62f.jpg",
+    "static/media/twitter.86fb2363.svg": "/MERN-project-frontend/static/media/twitter.86fb2363.svg",
+    "static/media/wordpress.5e4b53fd.jpg": "/MERN-project-frontend/static/media/wordpress.5e4b53fd.jpg",
+    "static/media/youtube.ae6f9ede.svg": "/MERN-project-frontend/static/media/youtube.ae6f9ede.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6738dcac.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.8b3a74df.chunk.js",
+    "static/css/main.8c19e1cc.chunk.css",
+    "static/js/main.76157a26.chunk.js"
+  ]
+}
