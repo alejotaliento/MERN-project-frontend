@@ -72,6 +72,11 @@ const routes = [
         component: Home,
       },
       {
+        path: "/MERN-project-frontend",
+        exact: true,
+        component: Home,
+      },
+      {
         path: "/contact",
         exact: true,
         component: Contact,
