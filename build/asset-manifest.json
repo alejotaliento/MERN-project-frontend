@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MERN-project-frontend/static/css/main.8c19e1cc.chunk.css",
-    "main.js": "/MERN-project-frontend/static/js/main.76157a26.chunk.js",
-    "main.js.map": "/MERN-project-frontend/static/js/main.76157a26.chunk.js.map",
+    "main.js": "/MERN-project-frontend/static/js/main.df36f1b8.chunk.js",
+    "main.js.map": "/MERN-project-frontend/static/js/main.df36f1b8.chunk.js.map",
     "runtime-main.js": "/MERN-project-frontend/static/js/runtime-main.6738dcac.js",
     "runtime-main.js.map": "/MERN-project-frontend/static/js/runtime-main.6738dcac.js.map",
     "static/css/2.786ae0dd.chunk.css": "/MERN-project-frontend/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.8b3a74df.chunk.js": "/MERN-project-frontend/static/js/2.8b3a74df.chunk.js",
-    "static/js/2.8b3a74df.chunk.js.map": "/MERN-project-frontend/static/js/2.8b3a74df.chunk.js.map",
+    "static/js/2.dd3cf915.chunk.js": "/MERN-project-frontend/static/js/2.dd3cf915.chunk.js",
+    "static/js/2.dd3cf915.chunk.js.map": "/MERN-project-frontend/static/js/2.dd3cf915.chunk.js.map",
     "static/js/3.73de6012.chunk.js": "/MERN-project-frontend/static/js/3.73de6012.chunk.js",
     "static/js/3.73de6012.chunk.js.map": "/MERN-project-frontend/static/js/3.73de6012.chunk.js.map",
     "index.html": "/MERN-project-frontend/index.html",
     "static/css/2.786ae0dd.chunk.css.map": "/MERN-project-frontend/static/css/2.786ae0dd.chunk.css.map",
     "static/css/main.8c19e1cc.chunk.css.map": "/MERN-project-frontend/static/css/main.8c19e1cc.chunk.css.map",
-    "static/js/2.8b3a74df.chunk.js.LICENSE.txt": "/MERN-project-frontend/static/js/2.8b3a74df.chunk.js.LICENSE.txt",
+    "static/js/2.dd3cf915.chunk.js.LICENSE.txt": "/MERN-project-frontend/static/js/2.dd3cf915.chunk.js.LICENSE.txt",
     "static/media/academy-logo.41594212.png": "/MERN-project-frontend/static/media/academy-logo.41594212.png",
     "static/media/SignIn.scss": "/MERN-project-frontend/static/media/background-v1.cf7d7d05.jpg",
     "static/media/css-grid.d6019588.jpg": "/MERN-project-frontend/static/media/css-grid.d6019588.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.6738dcac.js",
     "static/css/2.786ae0dd.chunk.css",
-    "static/js/2.8b3a74df.chunk.js",
+    "static/js/2.dd3cf915.chunk.js",
     "static/css/main.8c19e1cc.chunk.css",
-    "static/js/main.76157a26.chunk.js"
+    "static/js/main.df36f1b8.chunk.js"
   ]
 }
