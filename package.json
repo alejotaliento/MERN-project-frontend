@@ -8,7 +8,7 @@
     "url": "git://github.com/alejotaliento/MERN-project-frontend.git"
   },
   "description": "First web development with MERN Stack",
-  "homepage": "https://alejotaliento.github.io/MERN-project-frontend",
+  "homepage": "https://alejotaliento.github.io/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "4.0.0",
