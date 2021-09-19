@@ -1,0 +1,22 @@
+@import "../scss/index.scss";
+
+.layout-basic {
+  h1,
+  h2 {
+    text-align: center !important;
+    font-weight: $primary-font-text !important;
+    color: $primary-color;
+  }
+
+  &__content {
+    background-color: $background-dark-mode; 
+  }
+
+  &__footer {
+    h1 {
+      color: black !important;
+    }
+    background-color: $footer-color;
+    text-align: center;
+  }
+}
